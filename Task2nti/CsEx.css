@@ -1,0 +1,79 @@
+
+body{
+    width: 100%;
+
+ 
+}
+table{
+    background-image: url(imj/planet.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: contain;
+    width: 70%;
+    margin: 30px auto;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-style: dotted;
+    border-width:2px;
+    border-color: black;
+    text-align: center;
+ 
+}
+th,td{
+    border: thin solid lightgoldenrodyellow;
+    border-style: dotted;
+    border-width:2px;
+    border-color: black;
+
+}
+th{
+    background-color: rgba(66, 180, 214, 0.34);
+    text-align: center;
+    padding: 10px;
+}
+td{
+    padding: 10px;
+}
+.nnn{
+    width: 70%;
+    min-height: 100px;
+    margin: 40px auto;
+    padding: 10px;
+    background-color: rgb(141, 179, 92);
+    text-align: justify;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.dv2{
+    min-height: 150px;
+    margin-top: -90px;
+    width: 19%;
+    border-radius: 7px;
+    margin-right: 39px;
+    background-image: url(imj/img1.jpg);
+    background-repeat: no-repeat;
+}
+.mnm{
+    border: 3px solid rebeccapurple;
+}
+
+.cell{
+    min-height: 10%;
+}
+.nnamm
+{
+   width: 20%;
+    margin:10px auto;
+    color: red;
+}
+span{
+   
+    background-color: red;
+   padding-right: 10px;
+   padding-left: 10px;
+    color: white;
+    cursor: pointer;
+}
+.Mbn{
+    background-color: rgba(66, 180, 214, 0.34);
+}
